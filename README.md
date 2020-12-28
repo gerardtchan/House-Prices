@@ -1,2 +1,2 @@
-# Titanic
-csv files for the Titanic dataset
+# House Prices
+csv files for the House Prices dataset
