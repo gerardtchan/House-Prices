@@ -1,2 +1,2 @@
 # Titanic
-Titanic dataset
+csv files for the Titanic dataset
